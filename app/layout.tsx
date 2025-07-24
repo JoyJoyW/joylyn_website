@@ -38,11 +38,11 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: 'Joylyn Wang',
 		description: 'Welcome to my website! Just a girl passionate about making technology to help people.',
-		url: 'https://your-domain.com',
+		url: 'https://joylynwang.com',
 		siteName: 'Joylyn Wang',
 		images: [
 			{
-				url: '/og-image.jpg',
+				url: '/og-image.png',
 				width: 1200,
 				height: 630,
 				alt: 'Joylyn Wang - Portfolio',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
 		title: 'Joylyn Wang',
 		description: ' Just a girl passionate about creating technology to help people.',
 		creator: '@itsjoyjoyy',
-		images: ['/og-image.jpg'],
+		images: ['/og-image.png'],
 	},
 	robots: {
 		index: true,
